@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Kumar%20Pandey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Open%20Source%20Builder%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=650&lines=Problem+Solver+%7C+Builder+%7C+Innovator;Full+Stack+%7C+Android+%7C+AI%2FML+Developer;12%2B+Projects+%7C+AI+Agent+Workflows+%F0%9F%A4%96;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=650&lines=Problem+Solver+%7C+Builder+%7C+Innovator;Full+Stack+%7C+Android+%7C+AI%2FML+Developer;AI+Agent+Workflows+%F0%9F%A4%96;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
