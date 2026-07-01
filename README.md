@@ -229,13 +229,17 @@ I'm a **B.Tech Information Science Engineering** student at **Presidency Univers
 
 ## 📊 GitHub Stats
 
+
+
 <div align="center">
 
 ### ⚡ Activity Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush-2401&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush-2401&theme=github_dark)
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-2401&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush-2401&theme=github_dark)
+<br></br>
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-2401&theme=github_dark)
 
 <br/><br/>
 
